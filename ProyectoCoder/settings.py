@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ProyectoCoder.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [r'C:\Users\Martina\Desktop\ClaudioPython\ProgramasPrueba\Django\ProyectoDemo\AppCoder\template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
